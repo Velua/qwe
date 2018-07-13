@@ -1,0 +1,4 @@
+{
+  "appId": "${process.env.OSAPPID || '11940624-80ad-45c0-8995-0e7847ee4ecc'}",
+  "authKey": "${process.env.OSAUTHKEY || 'YjljM2YzODMtMjcyOC00MWVmLTkzMTktMDQ1ZDJkODhlZWVi'}"
+}

@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "name",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "age": {
+      "type": "string"
+    }
+  }
+}
